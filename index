@@ -39,7 +39,7 @@
 
 <body>
 
-  <!-- ======= Header ======= -->
+  <!-- ======= Header ======= --
   <header id="header" class="header d-flex align-items-center">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
@@ -68,7 +68,7 @@
               <li><a href="#">PEMASUKAN</a></li>
             </ul>
           </li>
-          <li><a href="login.php">Logout</a></li>
+          <li><a href="login.php">logout</a></li>
         </ul>
       </nav><!-- .navbar -->
 
